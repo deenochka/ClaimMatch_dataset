@@ -9,6 +9,7 @@ tive class (two claims in a pair are matching: label 1) and 500 for the negative
 You can read more about the dataset in the following paper: https://aclanthology.org/2025.coling-main.650/ or https://arxiv.org/abs/2501.10860 .
 
 # Citation:
+
 @misc{pisarevskaya2025zeroshotfewshotlearninginstructionfollowing,
 
       title={Zero-shot and Few-shot Learning with Instruction-following LLMs for Claim Matching in Automated Fact-checking}, 
@@ -22,5 +23,4 @@ You can read more about the dataset in the following paper: https://aclanthology
       
       primaryClass={cs.CL},
       
-      url={https://arxiv.org/abs/2501.10860}, 
-}
+      url={https://arxiv.org/abs/2501.10860}, }
