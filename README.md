@@ -8,18 +8,7 @@ ClaimMatch dataset, used in the experiments on Large Language models, contains 1
 tive class (two claims in a pair are matching: label 1) and 500 for the negative class (two claims in a pair are not matching: label 1).
 You can read more about the dataset in the following paper: https://aclanthology.org/2025.coling-main.650/ or https://arxiv.org/abs/2501.10860 .
 
-# Citation:
-
-      @misc{pisarevskaya2025zeroshotfewshotlearninginstructionfollowing,
-      title={Zero-shot and Few-shot Learning with Instruction-following LLMs for Claim Matching in Automated Fact-checking}, 
-      author={Dina Pisarevskaya and Arkaitz Zubiaga},      
-      year={2025},      
-      eprint={2501.10860},      
-      archivePrefix={arXiv},      
-      primaryClass={cs.CL},      
-      url={https://arxiv.org/abs/2501.10860}, }
-
-or 
+# Citation:      
 
     @inproceedings{pisarevskaya-zubiaga-2025-zero,
     title = "Zero-shot and Few-shot Learning with Instruction-following {LLM}s for Claim Matching in Automated Fact-checking",
@@ -45,3 +34,14 @@ or
     tackled by leveraging more mature yet similar tasks such as natural language inference or paraphrase detection. We also propose a pipeline for CM, which we 
     evaluate on texts of different lengths."
 }
+
+or 
+
+      @misc{pisarevskaya2025zeroshotfewshotlearninginstructionfollowing,
+      title={Zero-shot and Few-shot Learning with Instruction-following LLMs for Claim Matching in Automated Fact-checking}, 
+      author={Dina Pisarevskaya and Arkaitz Zubiaga},      
+      year={2025},      
+      eprint={2501.10860},      
+      archivePrefix={arXiv},      
+      primaryClass={cs.CL},      
+      url={https://arxiv.org/abs/2501.10860}, }
