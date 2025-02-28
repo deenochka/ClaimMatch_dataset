@@ -32,8 +32,7 @@ You can read more about the dataset in the following paper: https://aclanthology
     with a set of instruction-following large language models (GPT-3.5-turbo, Gemini-1.5-flash, Mistral-7B-Instruct, and Llama-3-8B-Instruct), investigating prompt 
     templates. We introduce a new CM dataset, ClaimMatch, which will be released upon acceptance. We put LLMs to the test in the CM task and find out that it can be 
     tackled by leveraging more mature yet similar tasks such as natural language inference or paraphrase detection. We also propose a pipeline for CM, which we 
-    evaluate on texts of different lengths."
-}
+    evaluate on texts of different lengths."}
 
 or 
 
