@@ -4,8 +4,10 @@ The dataset for the paper "Zero-shot and Few-shot Learning with Instruction-foll
 The dataset relies on the texts from the fully available public dataset (Nakov et al., 2022). We use the multi-domain English subset of
 the data.
 
-ClaimMatch dataset, used in the experiments on Large Language models, contains 1,000 claim pairs: 500 for the posi-
-tive class (two claims in a pair are matching: label 1) and 500 for the negative class (two claims in a pair are not matching: label 1).
+ClaimMatch dataset, used in the experiments on Large Language models, contains 1,000 claim pairs: 
+500 for the positive class (two claims in a pair are matching: label 1) 
+and 500 for the negative class (two claims in a pair are not matching: label 0).
+There are three tab-separated columns: claim1, claim2, label.
 You can read more about the dataset in the following paper: https://aclanthology.org/2025.coling-main.650/ or https://arxiv.org/abs/2501.10860 .
 
 # Citation:      
