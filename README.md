@@ -10,7 +10,7 @@ You can read more about the dataset in the following paper: https://aclanthology
 
 # Citation:
 
-@misc{pisarevskaya2025zeroshotfewshotlearninginstructionfollowing,
+      @misc{pisarevskaya2025zeroshotfewshotlearninginstructionfollowing,
 
       title={Zero-shot and Few-shot Learning with Instruction-following LLMs for Claim Matching in Automated Fact-checking}, 
       author={Dina Pisarevskaya and Arkaitz Zubiaga},
