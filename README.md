@@ -1,4 +1,4 @@
-# ClaimMatch_dataset
+# ClaimMatch
 The dataset for the paper "Zero-shot and Few-shot Learning with Instruction-following LLMs for Claim Matching in Automated Fact-checking"
 
 The dataset relies on the texts from the fully available public dataset (Nakov et al., 2022: https://ceur-ws.org/Vol-3180/paper-29.pdf). We use the multi-domain English subset of
